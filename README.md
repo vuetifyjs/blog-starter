@@ -1,4 +1,4 @@
-# vue-simple-boilerplate
+# blog-starter
 
 > The simplest possible Vue setup in a single HTML file
 
@@ -16,7 +16,7 @@ This is a project template for [vue-cli](https://github.com/vuejs/vue-cli).
 
 ``` bash
 $ npm install -g vue-cli      # Install vue-cli if you haven't already
-$ vue init simple my-project  # Create a new project based on this template
+$ vue init vuetifyjs/blog-starter my-project  # Create a new project based on this template
 $ cd my-project               # Navigate into your new project folder
 
 $ npm install -g live-server  # Install live-server if you haven't already
